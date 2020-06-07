@@ -1,0 +1,6 @@
+framework module Pods_Finch_Station {
+  umbrella header "Pods-Finch Station-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Realm (4.3.2):
+    - Realm/Headers (= 4.3.2)
+  - Realm/Headers (4.3.2)
+  - RealmSwift (4.3.2):
+    - Realm (= 4.3.2)
+  - SwiftPullToRefresh (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - RealmSwift
+  - SwiftPullToRefresh
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Realm
+    - RealmSwift
+    - SwiftPullToRefresh
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Realm: 5e92902e2875dff4bb0fd02f67bb737c3d5db2bc
+  RealmSwift: 9a360fc7bae04fc2e308a34fbd899d5faa2d6b22
+  SwiftPullToRefresh: f61d67439c5b8d66420fe57193cab8c279398e7a
+
+PODFILE CHECKSUM: 3e33e89b7cf51decbbc0c1833ef91848ab24a750
+
+COCOAPODS: 1.8.4
